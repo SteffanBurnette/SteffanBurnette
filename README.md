@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Steffan, a compsci connoisseur who finds passion in discovering, breaking, undertsanding and rebuilding things into a newer more optimized product.  
+I'm Steffan, a compsci connoisseur who finds passion in discovering, breaking, understanding and rebuilding things into a newer more optimized product.  
 <!--
 **SteffanBurnette/SteffanBurnette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
